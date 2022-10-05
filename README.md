@@ -1,4 +1,5 @@
 # Handwriting-Recognition-in-Python
+Application in AI, ML and DL
 Download dataset here: https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
 Modeling a neural network that will have to be trained over a dataset containing images of alphabets.
 Below are the prerequisites for this project: 
